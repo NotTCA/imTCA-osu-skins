@@ -1,2 +1,27 @@
-# imTCA-osu-skins
-skins used by myself, imTCA.
+# ORDER: most used skin/s, owoTuna imTCA Edit, then in order of date added.
+
+# will update as often as i can, but dm me on discord @ imTCA#3060 if a skin is missing (scroll and check first though).
+
+# also, check the skin folder of a skin if the download link doesn't automatically come with the cursor that you saw me recently use on stream/in videos. (ie: yellow cookiezi cursor with red trail as opposed to no trail). it will probably be there, if not, notify me.
+
+updates (mm/dd/yyyy) (will delete these after 2 weeks or so of writing them, or if they're about issues and they get resolved):
+- 04-21-2021: Created a new osu! skins list (which is this one). Will be adding new skins in a little bit, but for now, only most used skins and owoTuna imTCA Edit are up.
+
+# [tony varv](https://imtca.s-ul.eu/skins/sM2MqpQ6)
+![](https://i.imgur.com/o9jRf9w.jpg)
+
+# [BTMC | FREEDOM DiVE↓](https://imtca.s-ul.eu/skins/QTS06nLF)
+![](https://i.imgur.com/4fY735j.jpg)
+
+# [《CK》 Bacon boi 1.0 blue](https://imtca.s-ul.eu/skins/4pURLArg)
+note: this skin is a minor edit, all I did was change the cursor to the vaxei cursor. all credit goes to [cyperdark](https://github.com/cyperdark).
+![](https://osu.ppy.sh/ss/16492976/56e0)
+
+# [Aesthetic  1.3.8](https://imtca.s-ul.eu/skins/vAgaUN9B)
+![](https://i.imgur.com/9K8wrMP.jpg)
+
+# owoTuna imTCA Edit (2 versions, linked below)
+[Version 1](https://imtca.s-ul.eu/skins/iw7Iqz5K)
+![](https://i.imgur.com/X753mTF.png)
+[Version 2](https://imtca.s-ul.eu/skins/vXk7NUjH)
+![](https://i.imgur.com/dRPIwea.jpg)
