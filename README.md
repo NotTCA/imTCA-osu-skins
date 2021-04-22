@@ -6,6 +6,10 @@
 
 updates (mm/dd/yyyy) (will delete these after 2 weeks or so of writing them, or if they're about issues and they get resolved):
 - 04-21-2021: Created a new osu! skins list (which is this one). Will be adding new skins in a little bit, but for now, only most used skins and owoTuna imTCA Edit are up.
+- 04-22-2021: Added most of the skins.
+
+# [freddie minor edit](https://imtca.s-ul.eu/skins/3I0CtMrT)
+![](https://i.imgur.com/lH9oQpP.jpg)
 
 # [tony varv](https://imtca.s-ul.eu/skins/sM2MqpQ6)
 ![](https://i.imgur.com/o9jRf9w.jpg)
@@ -21,7 +25,21 @@ note: this skin is a minor edit, all I did was change the cursor to the vaxei cu
 ![](https://i.imgur.com/9K8wrMP.jpg)
 
 # owoTuna imTCA Edit (2 versions, linked below)
-[Version 1](https://imtca.s-ul.eu/skins/iw7Iqz5K)
+[Version 1](https://imtca.s-ul.eu/skins/iw7Iqz5K) (as featured [here](https://youtu.be/LPXWHAzdqZg))
 ![](https://i.imgur.com/X753mTF.png)
 [Version 2](https://imtca.s-ul.eu/skins/vXk7NUjH)
 ![](https://i.imgur.com/dRPIwea.jpg)
+
+# [JesusOmega: Planets]()
+
+# [pishifat imTCA edit](https://imtca.s-ul.eu/skins/gXZToTgp)
+![](https://i.imgur.com/VZOafun.jpg)
+
+# [Rafis imTCA](https://imtca.s-ul.eu/skins/SIIlOW48)
+![](https://i.imgur.com/1ssfzvk.jpg)
+
+# [MC Noel V6 TCA Edit](https://imtca.s-ul.eu/skins/PyQTSE9r)
+![](https://i.imgur.com/AJPqBss.jpg)
+
+# [reowoTuna imTCA](https://imtca.s-ul.eu/skins/pSda1wuU)
+![](https://i.imgur.com/cR2TRd7.jpg)  
