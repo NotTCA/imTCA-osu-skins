@@ -7,15 +7,25 @@
 updates (mm/dd/yyyy) (will delete these after 2 weeks or so of writing them, or if they're about issues and they get resolved):
 - 04-21-2021: Created a new osu! skins list (which is this one). Will be adding new skins in a little bit, but for now, only most used skins and owoTuna imTCA Edit are up.
 - 04-22-2021: Added most of the skins.
+- 04-23-2021: Finished adding all skins!
+
+# [sriracha rice Aristia](https://imtca.s-ul.eu/skins/BzMLTIui)
+![](https://i.imgur.com/a8Ftf4h.jpg)
 
 # [freddie minor edit](https://imtca.s-ul.eu/skins/3I0CtMrT)
 ![](https://i.imgur.com/lH9oQpP.jpg)
+
+# [MonkoYaong](https://imtca.s-ul.eu/skins/XOOC82SB)
+![](https://i.imgur.com/ZFBUqnt.jpg)
 
 # [tony varv](https://imtca.s-ul.eu/skins/sM2MqpQ6)
 ![](https://i.imgur.com/o9jRf9w.jpg)
 
 # [BTMC | FREEDOM DiVE↓](https://imtca.s-ul.eu/skins/QTS06nLF)
 ![](https://i.imgur.com/4fY735j.jpg)
+
+# [mugio3](https://imtca.s-ul.eu/skins/fE3tRUCC)
+![](https://i.imgur.com/RmrD6Fz.jpg)
 
 # [《CK》 Bacon boi 1.0 blue](https://imtca.s-ul.eu/skins/4pURLArg)
 note: this skin is a minor edit, all I did was change the cursor to the vaxei cursor. all credit goes to [cyperdark](https://github.com/cyperdark).
@@ -30,7 +40,29 @@ note: this skin is a minor edit, all I did was change the cursor to the vaxei cu
 [Version 2](https://imtca.s-ul.eu/skins/vXk7NUjH)
 ![](https://i.imgur.com/dRPIwea.jpg)
 
-# [JesusOmega: Planets]()
+# [Ryugumink Ryuk's Style](https://imtca.s-ul.eu/skins/TKKG1QE7)
+![](https://i.imgur.com/qAWJxD7.png)
+
+# [boop](https://imtca.s-ul.eu/skins/uKCXqPul)
+![](https://i.imgur.com/QV8NGqJ.jpg)
+
+# [owc skin remake](https://imtca.s-ul.eu/skins/GyFL5bVa)
+![](https://i.imgur.com/kqoblkF.jpg)
+
+# [bees](https://imtca.s-ul.eu/skins/G535Tnop)
+![](https://i.imgur.com/1SZjiD0.jpg)
+
+# [owoTuna v1 Mathi](https://imtca.s-ul.eu/skins/4EtoMCHd)
+![](https://i.imgur.com/sWyAAQd.jpg)
+
+# [Ponytail HDDT](https://imtca.s-ul.eu/skins/tUstk9cl)
+![](https://i.imgur.com/zCw1bDX.png)
+
+# [Rafis HDDT mrekk](https://imtca.s-ul.eu/skins/lehSqW2k)
+![](https://i.imgur.com/BAniooj.png)
+
+# [jesusOmega: Planets](https://imtca.s-ul.eu/skins/PW18yuve)
+![](https://i.imgur.com/QXDzIX5.jpg)
 
 # [pishifat imTCA edit](https://imtca.s-ul.eu/skins/gXZToTgp)
 ![](https://i.imgur.com/VZOafun.jpg)
