@@ -7,7 +7,7 @@
 updates (mm/dd/yyyy) (will delete these after 2 weeks or so of writing them, or if they're about issues and they get resolved):
 - 04-21-2021: Created a new osu! skins list (which is this one). Will be adding new skins in a little bit, but for now, only most used skins and owoTuna imTCA Edit are up.
 - 04-22-2021: Added most of the skins.
-- 04-23-2021: Finished adding all skins!
+- 04-23-2021: Finished adding all skins! Also, removed the "extra cursors" note.
 
 # [sriracha rice Aristia](https://imtca.s-ul.eu/skins/BzMLTIui)
 ![](https://i.imgur.com/a8Ftf4h.jpg)
