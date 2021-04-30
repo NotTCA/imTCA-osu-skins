@@ -5,9 +5,11 @@
 <!-- # also, check the skin folder of a skin if the download link doesn't automatically come with the cursor that you saw me recently use on stream/in videos. (ie: yellow cookiezi cursor with red trail as opposed to no trail). it will probably be there, if not, notify me. -->
 
 updates (mm/dd/yyyy) (will delete these after 2 weeks or so of writing them, or if they're about issues and they get resolved):
-- 04-21-2021: Created a new osu! skins list (which is this one). Will be adding new skins in a little bit, but for now, only most used skins and owoTuna imTCA Edit are up.
-- 04-22-2021: Added most of the skins.
-- 04-23-2021: Finished adding all skins! Also, removed the "extra cursors" note.
+- 04-30-2021: Added KoiFishu old.
+
+# [KoiFishu old](https://imtca.s-ul.eu/skins/3a4o4iBf)
+note: this skin is a minor edit of the [KoiFishu idke 404 skin](https://drive.google.com/file/d/1D7QBbtaCxC4mw0PuM1dBY0A972muUc-c/view?usp=sharing), so go check that skin out if you don't like this version.
+![](https://i.imgur.com/3C35lAe.jpg)
 
 # [sriracha rice Aristia](https://imtca.s-ul.eu/skins/BzMLTIui)
 ![](https://i.imgur.com/a8Ftf4h.jpg)
