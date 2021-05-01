@@ -17,9 +17,6 @@ note: this skin is a minor edit of the [KoiFishu idke 404 skin](https://drive.go
 # [sriracha rice Aristia](https://imtca.s-ul.eu/skins/BzMLTIui)
 ![](https://i.imgur.com/a8Ftf4h.jpg)
 
-# [freddie minor edit](https://imtca.s-ul.eu/skins/3I0CtMrT)
-![](https://i.imgur.com/lH9oQpP.jpg)
-
 # [MonkoYaong](https://imtca.s-ul.eu/skins/XOOC82SB)
 ![](https://i.imgur.com/ZFBUqnt.jpg)
 
