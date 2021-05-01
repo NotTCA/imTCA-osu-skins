@@ -6,9 +6,10 @@
 
 updates (mm/dd/yyyy) (will delete these after 2 weeks or so of writing them, or if they're about issues and they get resolved):
 - 04-30-2021: Added KoiFishu old.
+- 05-01-2021: Added YouTube link to KoiFishu old.
 
 # [KoiFishu old](https://imtca.s-ul.eu/skins/3a4o4iBf)
-note: this skin is a minor edit of the [KoiFishu idke 404 skin](https://drive.google.com/file/d/1D7QBbtaCxC4mw0PuM1dBY0A972muUc-c/view?usp=sharing), so go check that skin out if you don't like this version.
+note: this skin is a minor edit of the [KoiFishu idke 404 skin](https://drive.google.com/file/d/1D7QBbtaCxC4mw0PuM1dBY0A972muUc-c/view?usp=sharing), and is mostly inspired from [this video](https://youtu.be/yZa2RQoKzpM?t=1509).
 ![](https://i.imgur.com/3C35lAe.jpg)
 
 # [sriracha rice Aristia](https://imtca.s-ul.eu/skins/BzMLTIui)
