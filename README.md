@@ -9,10 +9,14 @@
 updates (mm/dd/yyyy) (will delete these after 2 weeks or so of writing them, or if they're about issues and they get resolved):
 - 04-30-2021: Added KoiFishu old.
 - 05-01-2021: Added YouTube link to KoiFishu old, added title of skin list at the top, and deleted some skins.
+- 05-03-2021: Added most used tags, and added Monko2kSkin v2.
 
-# [KoiFishu old](https://imtca.s-ul.eu/skins/3a4o4iBf)
+# [KoiFishu old](https://imtca.s-ul.eu/skins/3a4o4iBf) [MOST USED #1]
 note: this skin is a minor edit of the [KoiFishu idke 404 skin](https://drive.google.com/file/d/1D7QBbtaCxC4mw0PuM1dBY0A972muUc-c/view?usp=sharing), and is mostly inspired from [this video](https://youtu.be/yZa2RQoKzpM?t=1509).
 ![](https://i.imgur.com/3C35lAe.jpg)
+
+# [Monko2kSkin v2](https://imtca.s-ul.eu/skins/dDf5Ihbh) [MOST USED #2]
+![](https://monko2k.github.io/skin4.jpg)
 
 # [sriracha rice Aristia](https://imtca.s-ul.eu/skins/BzMLTIui)
 ![](https://i.imgur.com/a8Ftf4h.jpg)
