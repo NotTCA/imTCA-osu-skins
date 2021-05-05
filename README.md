@@ -45,9 +45,9 @@ note: this skin is a minor edit, all I did was change the cursor to the vaxei cu
 ![](https://i.imgur.com/9K8wrMP.jpg)
 
 # owoTuna imTCA Edit (2 versions, linked below)
-[Version 1](https://imtca.s-ul.eu/skins/iw7Iqz5K) (as featured [here](https://youtu.be/LPXWHAzdqZg))
+## [Version 1](https://imtca.s-ul.eu/skins/iw7Iqz5K) (as featured [here](https://youtu.be/LPXWHAzdqZg))
 ![](https://i.imgur.com/X753mTF.png)
-[Version 2](https://imtca.s-ul.eu/skins/vXk7NUjH)
+## [Version 2](https://imtca.s-ul.eu/skins/vXk7NUjH)
 ![](https://i.imgur.com/dRPIwea.jpg)
 
 # [Ryugumink Ryuk's Style](https://imtca.s-ul.eu/skins/TKKG1QE7)
