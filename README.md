@@ -11,18 +11,21 @@ updates (mm/dd/yyyy) (will delete these after 2 weeks or so of writing them, or 
 - 05-01-2021: Added YouTube link to KoiFishu old, added title of skin list at the top, and deleted some skins.
 - 05-03-2021: Added most used tags, and added Monko2kSkin v2.
 
-# [KoiFishu old](https://imtca.s-ul.eu/skins/3a4o4iBf) [MOST USED #1]
-note: this skin is a minor edit of the [KoiFishu idke 404 skin](https://drive.google.com/file/d/1D7QBbtaCxC4mw0PuM1dBY0A972muUc-c/view?usp=sharing), and is mostly inspired from [this video](https://youtu.be/yZa2RQoKzpM?t=1509).
-![](https://i.imgur.com/3C35lAe.jpg)
+# [KoiFishu's Skin Contest Mix](https://imtca.s-ul.eu/skins/DOQw8LKQ) [MOST USED #1]
+![](https://osu.ppy.sh/ss/16550378/432e)
 
 # [Monko2kSkin v2](https://imtca.s-ul.eu/skins/dDf5Ihbh) [MOST USED #2]
 ![](https://monko2k.github.io/skin4.jpg)
 
+# [MonkoYaong](https://imtca.s-ul.eu/skins/XOOC82SB) [MOST USED #3]
+![](https://i.imgur.com/ZFBUqnt.jpg)
+
+# [KoiFishu old](https://imtca.s-ul.eu/skins/3a4o4iBf)
+note: this skin is a minor edit of the [KoiFishu idke 404 skin](https://drive.google.com/file/d/1D7QBbtaCxC4mw0PuM1dBY0A972muUc-c/view?usp=sharing), and is mostly inspired from [this video](https://youtu.be/yZa2RQoKzpM?t=1509).
+![](https://i.imgur.com/3C35lAe.jpg)
+
 # [sriracha rice Aristia](https://imtca.s-ul.eu/skins/BzMLTIui)
 ![](https://i.imgur.com/a8Ftf4h.jpg)
-
-# [MonkoYaong](https://imtca.s-ul.eu/skins/XOOC82SB)
-![](https://i.imgur.com/ZFBUqnt.jpg)
 
 # [tony varv](https://imtca.s-ul.eu/skins/sM2MqpQ6)
 ![](https://i.imgur.com/o9jRf9w.jpg)
