@@ -10,7 +10,7 @@ updates (mm/dd/yyyy) (will delete these after 2 weeks or so of writing them, or 
 - 05-15-2021: Added Klee Addiction, also removed & moved a lot of skins.
 
 # [Klee Addiction](https://imtca.s-ul.eu/skins/tyBBhB8r) | [Lite Ver.](https://imtca.s-ul.eu/skins/37k3RxiS)
-note: I did not make this skin. credits below:
+note: I did not make this skin, it's more of a mixed skin. credits below:
 - Klee & hit elemehts from [Klee!](https://youtu.be/-Mx7gWsBq5A)
 - Gameplay & cursor from [baquaCREZZ](https://youtu.be/hU-UckGByIU)
 
