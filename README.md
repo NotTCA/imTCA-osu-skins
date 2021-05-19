@@ -8,6 +8,10 @@
 
 updates (mm/dd/yyyy) (will delete these after 2 weeks or so of writing them, or if they're about issues and they get resolved):
 - 05-15-2021: Added Klee Addiction, also removed & moved a lot of skins.
+- 05-19-2021: Moved Planets to the very top of the skin list.
+
+# [jesusOmega: Planets](https://imtca.s-ul.eu/skins/PW18yuve)
+![](https://i.imgur.com/QXDzIX5.jpg)
 
 # [Klee Addiction](https://imtca.s-ul.eu/skins/tyBBhB8r) | [Lite Ver.](https://imtca.s-ul.eu/skins/37k3RxiS)
 note: I did not make this skin, it's more of a mixed skin. credits below:
@@ -56,9 +60,6 @@ note: this skin is a minor edit, all I did was change the cursor to the vaxei cu
 
 # [Rafis HDDT mrekk](https://imtca.s-ul.eu/skins/lehSqW2k)
 ![](https://i.imgur.com/BAniooj.png)
-
-# [jesusOmega: Planets](https://imtca.s-ul.eu/skins/PW18yuve)
-![](https://i.imgur.com/QXDzIX5.jpg)
 
 # [Rafis imTCA](https://imtca.s-ul.eu/skins/SIIlOW48)
 ![](https://i.imgur.com/1ssfzvk.jpg)
