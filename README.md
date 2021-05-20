@@ -52,7 +52,7 @@ note: this skin is a minor edit, all I did was change the cursor to the vaxei cu
 ![](https://i.imgur.com/X753mTF.png)
 ## [Version 2](https://imtca.s-ul.eu/skins/vXk7NUjH)
 ![](https://i.imgur.com/dRPIwea.jpg)
-## [Version 3](https://github.com/imTCA/imTCA-osu-skins/blob/main/README.md#owotuna-imtca-edit-v3)
+## [Version 3](https://imtca.s-ul.eu/skins/ykVVSpYQ) (latest ver.)
 ![](https://osu.ppy.sh/ss/16612541/abcb)
 
 # [Ryugumink Ryuk's Style](https://imtca.s-ul.eu/skins/TKKG1QE7)
