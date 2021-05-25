@@ -7,12 +7,10 @@
 <!-- # also, check the skin folder of a skin if the download link doesn't automatically come with the cursor that you saw me recently use on stream/in videos. (ie: yellow cookiezi cursor with red trail as opposed to no trail). it will probably be there, if not, notify me. -->
 
 updates (mm/dd/yyyy) (will delete these after 2 weeks or so of writing them, or if they're about issues and they get resolved):
-- 05-15-2021: Added Klee Addiction, also removed & moved a lot of skins.
-- 05-19-2021: Moved Planets to the very top of the skin list.
-- 05-20-2021: Added owoTuna imTCA Edit v3.
+- 05-25-2021: Moved owoTuna imTCA Edit v3 back to the owoTuna imTCA Edit category, also added BlooTCA.
 
-# [owoTuna imTCA Edit v3](https://imtca.s-ul.eu/skins/ykVVSpYQ)
-![](https://osu.ppy.sh/ss/16612541/abcb)
+# [BlooTCA](https://imtca.s-ul.eu/skins/Ldv1qp5j) | [w/ Azer Cursor](https://imtca.s-ul.eu/skins/4AYkLomP)
+![](https://osu.ppy.sh/ss/16634797/5cd4)
 
 # [Klee Addiction](https://imtca.s-ul.eu/skins/tyBBhB8r) | [Lite Ver.](https://imtca.s-ul.eu/skins/37k3RxiS)
 note: I did not make this skin, it's more of a mixed skin. credits below:
