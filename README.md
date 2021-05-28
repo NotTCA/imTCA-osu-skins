@@ -8,6 +8,7 @@
 
 updates (mm/dd/yyyy) (will delete these after 2 weeks or so of writing them, or if they're about issues and they get resolved):
 - 05-25-2021: Moved owoTuna imTCA Edit v3 back to the owoTuna imTCA Edit category, also added BlooTCA.
+- 05-28-2021: Added TCAYaong.
 
 # [TCAYaong](https://imtca.s-ul.eu/skins/5HUmsDxB)
 ![](https://osu.ppy.sh/ss/16646413/624a)
