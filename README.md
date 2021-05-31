@@ -7,8 +7,10 @@
 <!-- # also, check the skin folder of a skin if the download link doesn't automatically come with the cursor that you saw me recently use on stream/in videos. (ie: yellow cookiezi cursor with red trail as opposed to no trail). it will probably be there, if not, notify me. -->
 
 updates (mm/dd/yyyy) (will delete these after 2 weeks or so of writing them, or if they're about issues and they get resolved):
-- 05-25-2021: Moved owoTuna imTCA Edit v3 back to the owoTuna imTCA Edit category, also added BlooTCA.
-- 05-28-2021: Added TCAYaong.
+- 05-31-2021: Moved JesusOmega; Planets back to the top.
+
+# [jesusOmega: Planets](https://imtca.s-ul.eu/skins/PW18yuve)
+![](https://i.imgur.com/QXDzIX5.jpg)
 
 # [TCAYaong](https://imtca.s-ul.eu/skins/5HUmsDxB)
 ![](https://osu.ppy.sh/ss/16646413/624a)
@@ -22,9 +24,6 @@ note: I did not make this skin, it's more of a mixed skin. credits below:
 - Gameplay & cursor from [baquaCREZZ](https://youtu.be/hU-UckGByIU)
 
 ![](https://osu.ppy.sh/ss/16591721/532e)
-
-# [jesusOmega: Planets](https://imtca.s-ul.eu/skins/PW18yuve)
-![](https://i.imgur.com/QXDzIX5.jpg)
 
 # [MonkoYaong](https://imtca.s-ul.eu/skins/XOOC82SB)
 ![](https://i.imgur.com/ZFBUqnt.jpg)
