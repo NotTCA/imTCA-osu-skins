@@ -7,7 +7,10 @@
 <!-- # also, check the skin folder of a skin if the download link doesn't automatically come with the cursor that you saw me recently use on stream/in videos. (ie: yellow cookiezi cursor with red trail as opposed to no trail). it will probably be there, if not, notify me. -->
 
 updates (mm/dd/yyyy) (will delete these after 2 weeks or so of writing them, or if they're about issues and they get resolved):
-- 05-31-2021: Moved JesusOmega; Planets back to the top.
+- 06-03-2021: Added boop, also removed more skins.
+
+# [boop](https://imtca.s-ul.eu/skins/MP0cxszM)
+![](https://osu.ppy.sh/ss/14733957/6cce)
 
 # [jesusOmega: Planets](https://imtca.s-ul.eu/skins/PW18yuve)
 ![](https://i.imgur.com/QXDzIX5.jpg)
@@ -25,9 +28,6 @@ note: I did not make this skin, it's more of a mixed skin. credits below:
 
 ![](https://osu.ppy.sh/ss/16591721/532e)
 
-# [MonkoYaong](https://imtca.s-ul.eu/skins/XOOC82SB)
-![](https://i.imgur.com/ZFBUqnt.jpg)
-
 # [KoiFishu's Skin Contest Mix](https://imtca.s-ul.eu/skins/DOQw8LKQ)
 ![](https://osu.ppy.sh/ss/16550378/432e)
 
@@ -38,15 +38,8 @@ note: this skin is a minor edit of the [KoiFishu idke 404 skin](https://drive.go
 # [BTMC | FREEDOM DiVE↓](https://imtca.s-ul.eu/skins/QTS06nLF)
 ![](https://i.imgur.com/4fY735j.jpg)
 
-# [mugio3](https://imtca.s-ul.eu/skins/fE3tRUCC)
-![](https://i.imgur.com/RmrD6Fz.jpg)
-
 # [Monko2kSkin v2](https://imtca.s-ul.eu/skins/dDf5Ihbh)
 ![](https://monko2k.github.io/skin4.jpg)
-
-# [《CK》 Bacon boi 1.0 blue](https://imtca.s-ul.eu/skins/4pURLArg)
-note: this skin is a minor edit, all I did was change the cursor to the vaxei cursor. all credit goes to [cyperdark](https://github.com/cyperdark).
-![](https://osu.ppy.sh/ss/16492976/56e0)
 
 # owoTuna imTCA Edit (2 versions, linked below)
 ## [Version 1](https://imtca.s-ul.eu/skins/iw7Iqz5K) (as featured [here](https://youtu.be/LPXWHAzdqZg))
@@ -56,9 +49,6 @@ note: this skin is a minor edit, all I did was change the cursor to the vaxei cu
 ## [Version 3](https://imtca.s-ul.eu/skins/ykVVSpYQ) (latest ver.)
 ![](https://osu.ppy.sh/ss/16612541/abcb)
 
-# [Ryugumink Ryuk's Style](https://imtca.s-ul.eu/skins/TKKG1QE7)
-![](https://i.imgur.com/qAWJxD7.png)
-
 # [owoTuna v1 Mathi](https://imtca.s-ul.eu/skins/4EtoMCHd)
 ![](https://i.imgur.com/sWyAAQd.jpg)
 
@@ -67,12 +57,6 @@ note: this skin is a minor edit, all I did was change the cursor to the vaxei cu
 
 # [Rafis HDDT mrekk](https://imtca.s-ul.eu/skins/lehSqW2k)
 ![](https://i.imgur.com/BAniooj.png)
-
-# [Rafis imTCA](https://imtca.s-ul.eu/skins/SIIlOW48)
-![](https://i.imgur.com/1ssfzvk.jpg)
-
-# [MC Noel V6 TCA Edit](https://imtca.s-ul.eu/skins/PyQTSE9r)
-![](https://i.imgur.com/AJPqBss.jpg)
 
 # [reowoTuna imTCA](https://imtca.s-ul.eu/skins/pSda1wuU)
 ![](https://i.imgur.com/cR2TRd7.jpg)  
