@@ -39,7 +39,7 @@ note: this skin is a minor edit of the [KoiFishu idke 404 skin](https://drive.go
 ![](https://i.imgur.com/4fY735j.jpg)
 
 # [Monko2kSkin v2](https://imtca.s-ul.eu/skins/dDf5Ihbh)
-![](https://monko2k.github.io/skin4.jpg)
+![](https://monko2k.github.io/previews/skin4.jpg)
 
 # owoTuna imTCA Edit (2 versions, linked below)
 ## [Version 1](https://imtca.s-ul.eu/skins/iw7Iqz5K) (as featured [here](https://youtu.be/LPXWHAzdqZg))
