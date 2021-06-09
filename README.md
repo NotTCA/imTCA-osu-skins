@@ -7,7 +7,10 @@
 <!-- # also, check the skin folder of a skin if the download link doesn't automatically come with the cursor that you saw me recently use on stream/in videos. (ie: yellow cookiezi cursor with red trail as opposed to no trail). it will probably be there, if not, notify me. -->
 
 updates (mm/dd/yyyy) (will delete these after 2 weeks or so of writing them, or if they're about issues and they get resolved):
-- 06-03-2021: Added boop, also removed more skins.
+- 06-09-2021: Added YUGEN with Rafis trail.
+
+# [YUGEN with Rafis trail](https://imtca.s-ul.eu/skins/iY5J5FGy)
+![](https://osu.ppy.sh/ss/16696635/c90a)
 
 # [boop](https://imtca.s-ul.eu/skins/MP0cxszM)
 ![](https://osu.ppy.sh/ss/14733957/6cce)
