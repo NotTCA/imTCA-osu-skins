@@ -7,13 +7,14 @@
 <!-- # also, check the skin folder of a skin if the download link doesn't automatically come with the cursor that you saw me recently use on stream/in videos. (ie: yellow cookiezi cursor with red trail as opposed to no trail). it will probably be there, if not, notify me. -->
 
 updates (mm/dd/yyyy) (will delete these after 2 weeks or so of writing them, or if they're about issues and they get resolved):
-- 06-09-2021: Added YUGEN with Rafis trail.
-
-# [YUGEN with Rafis trail](https://imtca.s-ul.eu/skins/iY5J5FGy)
-![](https://osu.ppy.sh/ss/16696635/c90a)
+- 06-09-2021: Added YUGEN with Rafis trail, also nice.
+- 06-10-2021: Moved boop above YUGEN with Rafis trail.
 
 # [boop](https://imtca.s-ul.eu/skins/MP0cxszM)
 ![](https://osu.ppy.sh/ss/14733957/6cce)
+
+# [YUGEN with Rafis trail](https://imtca.s-ul.eu/skins/iY5J5FGy)
+![](https://osu.ppy.sh/ss/16696635/c90a)
 
 # [jesusOmega: Planets](https://imtca.s-ul.eu/skins/PW18yuve)
 ![](https://i.imgur.com/QXDzIX5.jpg)
