@@ -8,13 +8,16 @@
 
 updates (mm/dd/yyyy) (will delete these after 2 weeks or so of writing them, or if they're about issues and they get resolved):
 - 06-09-2021: Added YUGEN with Rafis trail, also nice.
-- 06-10-2021: Moved boop above YUGEN with Rafis trail.
+- 06-10-2021: Added Seoul++.
 
-# [boop](https://imtca.s-ul.eu/skins/MP0cxszM)
-![](https://osu.ppy.sh/ss/14733957/6cce)
+# [Seoul++](https://imtca.s-ul.eu/skins/nfy9fZ3V)
+![](https://osu.ppy.sh/ss/16700438/d6e9)
 
 # [YUGEN with Rafis trail](https://imtca.s-ul.eu/skins/iY5J5FGy)
 ![](https://osu.ppy.sh/ss/16696635/c90a)
+
+# [boop](https://imtca.s-ul.eu/skins/MP0cxszM)
+![](https://osu.ppy.sh/ss/14733957/6cce)
 
 # [jesusOmega: Planets](https://imtca.s-ul.eu/skins/PW18yuve)
 ![](https://i.imgur.com/QXDzIX5.jpg)
