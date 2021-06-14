@@ -8,7 +8,7 @@
 
 updates (mm/dd/yyyy) (will delete these after 2 weeks or so of writing them, or if they're about issues and they get resolved):
 - 06-14-2021: Added azer8midnight chitanda edit long cursor, and removed multiplue unused skins.
-- 
+
 # [azer8midnight chitanda edit long cursor](https://imtca.s-ul.eu/skins/29177yTT)
 ![](https://osu.ppy.sh/ss/16716094/dcf9)
 
