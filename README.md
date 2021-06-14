@@ -7,23 +7,16 @@
 <!-- # also, check the skin folder of a skin if the download link doesn't automatically come with the cursor that you saw me recently use on stream/in videos. (ie: yellow cookiezi cursor with red trail as opposed to no trail). it will probably be there, if not, notify me. -->
 
 updates (mm/dd/yyyy) (will delete these after 2 weeks or so of writing them, or if they're about issues and they get resolved):
-- 06-09-2021: Added YUGEN with Rafis trail, also nice.
-- 06-10-2021: Added Seoul++.
-
-# [Seoul++](https://imtca.s-ul.eu/skins/nfy9fZ3V)
-![](https://osu.ppy.sh/ss/16700438/d6e9)
-
-# [YUGEN with Rafis trail](https://imtca.s-ul.eu/skins/iY5J5FGy)
-![](https://osu.ppy.sh/ss/16696635/c90a)
+- 06-14-2021: Added azer8midnight chitanda edit long cursor, and removed multiplue unused skins.
+- 
+# [azer8midnight chitanda edit long cursor](https://imtca.s-ul.eu/skins/29177yTT)
+![](https://osu.ppy.sh/ss/16716094/dcf9)
 
 # [boop](https://imtca.s-ul.eu/skins/MP0cxszM)
 ![](https://osu.ppy.sh/ss/14733957/6cce)
 
 # [jesusOmega: Planets](https://imtca.s-ul.eu/skins/PW18yuve)
 ![](https://i.imgur.com/QXDzIX5.jpg)
-
-# [TCAYaong](https://imtca.s-ul.eu/skins/5HUmsDxB)
-![](https://osu.ppy.sh/ss/16646413/624a)
 
 # [BlooTCA](https://imtca.s-ul.eu/skins/Ldv1qp5j) | [w/ Azer Cursor](https://imtca.s-ul.eu/skins/4AYkLomP)
 ![](https://osu.ppy.sh/ss/16634797/5cd4)
@@ -61,9 +54,3 @@ note: this skin is a minor edit of the [KoiFishu idke 404 skin](https://drive.go
 
 # [Ponytail HDDT](https://imtca.s-ul.eu/skins/tUstk9cl)
 ![](https://i.imgur.com/zCw1bDX.png)
-
-# [Rafis HDDT mrekk](https://imtca.s-ul.eu/skins/lehSqW2k)
-![](https://i.imgur.com/BAniooj.png)
-
-# [reowoTuna imTCA](https://imtca.s-ul.eu/skins/pSda1wuU)
-![](https://i.imgur.com/cR2TRd7.jpg)  
