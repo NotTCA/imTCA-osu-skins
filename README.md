@@ -7,7 +7,7 @@
 <!-- # also, check the skin folder of a skin if the download link doesn't automatically come with the cursor that you saw me recently use on stream/in videos. (ie: yellow cookiezi cursor with red trail as opposed to no trail). it will probably be there, if not, notify me. -->
 
 updates (mm/dd/yyyy) (will delete these after 2 weeks or so of writing them, or if they're about issues and they get resolved):
-- 06-17-2021: Moved boop back up, also new order.
+- 09-18-2021: Finally updated the repo. Only took 5 years.
 
 # [boop](https://imtca.s-ul.eu/skins/MP0cxszM)
 ![](https://osu.ppy.sh/ss/14733957/6cce)
@@ -15,14 +15,14 @@ updates (mm/dd/yyyy) (will delete these after 2 weeks or so of writing them, or 
 # [azer8midnight chitanda edit long cursor](https://imtca.s-ul.eu/skins/29177yTT)
 ![](https://osu.ppy.sh/ss/16716094/dcf9)
 
-# [jesusOmega: Planets](https://imtca.s-ul.eu/skins/PW18yuve)
+# [jesusOmega: Planets](https://drive.google.com/file/d/1DJl9BhBlzVQgSHxloTI2LOVPFOPm7GAr)
 ![](https://i.imgur.com/QXDzIX5.jpg)
 
 # [BlooTCA](https://imtca.s-ul.eu/skins/Ldv1qp5j) | [w/ Azer Cursor](https://imtca.s-ul.eu/skins/4AYkLomP)
 ![](https://osu.ppy.sh/ss/16634797/5cd4)
 
 # owoTuna imTCA Edit (2 versions, linked below)
-## [Version 1](https://imtca.s-ul.eu/skins/iw7Iqz5K) (as featured [here](https://youtu.be/LPXWHAzdqZg))
+## [Version 1](https://imtca.s-ul.eu/skins/iw7Iqz5K)
 ![](https://i.imgur.com/X753mTF.png)
 ## [Version 2](https://imtca.s-ul.eu/skins/vXk7NUjH)
 ![](https://i.imgur.com/dRPIwea.jpg)
@@ -43,14 +43,11 @@ note: I did not make this skin, it's more of a mixed skin. credits below:
 note: this skin is a minor edit of the [KoiFishu idke 404 skin](https://drive.google.com/file/d/1D7QBbtaCxC4mw0PuM1dBY0A972muUc-c/view?usp=sharing), and is mostly inspired from [this video](https://youtu.be/yZa2RQoKzpM?t=1509).
 ![](https://i.imgur.com/3C35lAe.jpg)
 
-# [BTMC | FREEDOM DiVE↓](https://imtca.s-ul.eu/skins/QTS06nLF)
+# [BTMC | FREEDOM DiVE↓](https://drive.google.com/file/d/1M44T3VRUKPagFyuWFSyWESrJHHmhTk55)
 ![](https://i.imgur.com/4fY735j.jpg)
 
-# [Monko2kSkin v2](https://imtca.s-ul.eu/skins/dDf5Ihbh)
+# [Monko2kSkin v2](https://fastmanmonko.s-ul.eu/WI8YTBmU)
 ![](https://monko2k.github.io/previews/skin4.jpg)
 
-# [owoTuna v1 Mathi](https://imtca.s-ul.eu/skins/4EtoMCHd)
+# [owoTuna v1 Mathi](https://drive.google.com/file/d/1Lr8OKg5ed-yHNCGPZfnns6Anq4je1XyD)
 ![](https://i.imgur.com/sWyAAQd.jpg)
-
-# [Ponytail HDDT](https://imtca.s-ul.eu/skins/tUstk9cl)
-![](https://i.imgur.com/zCw1bDX.png)
