@@ -2,12 +2,12 @@
 
 ## ORDER: current skins, owoTuna imTCA Edit, then in order of date added/used.
 
-## will update as often as i can, but dm me on discord @ imTCA#3060 if a skin is missing (scroll and check first though).
+## will update as often as i can, but dm me on discord @ Not TCA#3320 if a skin is missing (scroll and check first though).
 
 <!-- # also, check the skin folder of a skin if the download link doesn't automatically come with the cursor that you saw me recently use on stream/in videos. (ie: yellow cookiezi cursor with red trail as opposed to no trail). it will probably be there, if not, notify me. -->
 
-updates (mm/dd/yyyy) (will delete these after 2 weeks or so of writing them, or if they're about issues and they get resolved):
-- 09-30-2021: Added re:owoTuna Selyu.
+updates (mm/dd/yyyy) (will delete these in the next update, or if they're about issues and they get resolved):
+- 02-28-2022: Updated Discord tag and update message.
 
 # [re:owoTuna Selyu](https://ck1t.ru/s-1552)
 ![](https://skins.osuck.net/uploads/posts/2020-08/1596468449_screenshot9247.jpg)
