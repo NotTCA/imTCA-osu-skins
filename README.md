@@ -4,7 +4,13 @@
 
 ## will update as often as i can, but dm me on discord @ Not TCA#3320 if a skin is missing (scroll and check first though).
 
-<!-- # also, check the skin folder of a skin if the download link doesn't automatically come with the cursor that you saw me recently use on stream/in videos. (ie: yellow cookiezi cursor with red trail as opposed to no trail). it will probably be there, if not, notify me. -->
+# re:owoTuna Selyu
 
-# [re:owoTuna Selyu](https://1drv.ms/u/s!Ai351tFIX9j4gSevljxjfQ16Q7kr?e=9jEAnH)
+Author: [cyperdark](https://osu.ppy.sh/users/9893708)
+### Download
+|Source|Link|
+|---|---|
+|GitHub|[Download](https://github.com/NotTCA/imTCA-osu-skins/releases/download/skins/-.reowoTuna.v1.1.Selyu.-.osk)
+|OneDrive|[View in OneDrive](https://1drv.ms/u/s!Ai351tFIX9j4gSevljxjfQ16Q7kr?e=UQXANG)|[View in Google Drive](https://drive.google.com/drive/folders/1NytOsVVuJoYG4d57GZcbkggR65EkP6S9)
+
 ![](https://skins.osuck.net/uploads/posts/2020-08/1596468449_screenshot9247.jpg)
