@@ -1,8 +1,6 @@
-# imTCA's osu! Skin List
+# imTCA's osu! skin list
 
-## ORDER: current skins, then in order of date added/used.
-
-## will update as often as i can, but dm me on discord @ Not TCA#3320 if a skin is missing (scroll and check first though).
+# Current skins
 
 # re:owoTuna Selyu
 
