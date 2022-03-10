@@ -1,6 +1,7 @@
 # imTCA's osu! skin list
+This is a list of all the skins imTCA (also known as TCA or Not TCA) has ever used on osu!, from past to present.
 
-# Current skins
+## Current skins
 
 # re:owoTuna Selyu
 
