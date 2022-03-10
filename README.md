@@ -24,9 +24,21 @@ Author: [RyuK](https://osu.ppy.sh/users/6304246)
 |Source|Link|
 |---|---|
 |GitHub|[Download](https://github.com/NotTCA/imTCA-osu-skins/releases/download/skins/boop.osk)
-|Google Drive|[View in Google Drive](https://drive.google.com/file/d/10ILIb1F906jh2N7v5JcnJC9gzV1s1HWU/view?usp=sharing)|
 |OneDrive|[View in OneDrive](https://1drv.ms/u/s!Ai351tFIX9j4gSh61qhfcIBidpHq?e=UNBeSv)|
 |MEGA|[View in MEGA](https://mega.nz/file/hEl0QBgC#KK5fR6efrohst53AUIt1ZbUQxbefBI5JreirOJi-hgc)|
 |MediaFire|[View in MediaFire](https://www.mediafire.com/file/whlwi8dvwfxeu5n/boop.osk/file)|
 
 ![](https://skins.osuck.net/uploads/posts/2020-09/1601193848_screenshot9636.jpg)
+
+# MonkoYaong
+
+Author: [Monko2k](https://osu.ppy.sh/users/4852013), edited by [RyuK](https://osu.ppy.sh/users/6304246)
+
+### Download
+|Source|Link|
+|---|---|
+|GitHub|[Download](https://github.com/NotTCA/imTCA-osu-skins/releases/download/skins/-.MonkoYaong.osk)
+|OneDrive|[View in OneDrive](https://1drv.ms/u/s!Ai351tFIX9j4gSlZMSmids-87qCJ?e=Jkgm1y)|
+|Dropbox|[View in Dropbox](https://www.dropbox.com/s/l9lxw92pzvz9njz/-%20MonkoYaong.osk?dl=0)|
+
+![](https://osu.ppy.sh/ss/11923433)
